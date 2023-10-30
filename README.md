@@ -9,4 +9,4 @@
 - Google Fonts
 - Vanilla JS
 
-### Terima kasih banyak teman teman
+### DEMO : https://akupemulacupu.github.io/testpemulacupu.github.io/
