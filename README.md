@@ -8,5 +8,3 @@
 - Confetti 2.12.0
 - Google Fonts
 - Vanilla JS
-
-### DEMO : https://akupemulacupu.github.io/testpemulacupu.github.io/
